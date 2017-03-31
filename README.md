@@ -1,6 +1,5 @@
 # shopping-project
 
-
 Mainactivity.java
 public class MainActivity extends AppCompatActivity {
     private Button save;
